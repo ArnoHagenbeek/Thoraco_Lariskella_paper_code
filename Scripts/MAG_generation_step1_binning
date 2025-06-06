@@ -19,10 +19,10 @@ ml DB/diamondDB/ncbi
 #INPUT VARIABLES !!CHANGE AS NEEDED!!
 #############################################
 #Insert directories containing only the assemblies and reads for binning
-assembly_dir=/flash/HusnikU/Arno/Megahit/
-rawreads_dir=/bucket/HusnikU/Unit_Members/Arno/Lariskella_analyses/Trimmed_fastq
+assembly_dir=/path/to/assembly/
+rawreads_dir=/path/to/trimmed/reads/
 #Output directory
-out_dir=/flash/HusnikU/Arno/Bin_pipeline_trimmed_lariskella/
+out_dir=/path/to/output
 #Conda installation
 conda_ex=/home/a/arno-hagenbeek/miniforge3/etc/profile.d/conda.sh
 
