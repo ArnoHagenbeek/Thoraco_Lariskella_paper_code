@@ -1,2 +1,2 @@
 # Tool commands
-The Tool_commands.md file contains the commands given to tools during the analyses.
+The Tool_commands.md file contains the commands given to the various tools during the analyses.
