@@ -2,7 +2,7 @@
 ```phyloFlash.pl -dbhome /path/to/database -lib ${input_fastq1}_phyloflash -read1 ${input_fastq1} -read2 ${input_fastq2} -readlength 150```
 
 # Prokka
-```prokka --force --outdir ${outdir}--prefix ${in_fasta##*/} --cpus 32 ${in_fasta##*/}```
+```prokka --force --outdir ${outdir} --prefix ${in_fasta##*/} --cpus 32 ${in_fasta##*/}```
 
 # Orthofinder
 ```
